@@ -19,6 +19,23 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 cp Configs/vimrc ~/.vimrc
 
 vim ~/.vimrc
+
+
+
+install plugins
+
+
+:PlugInstall
+
+
+
+
+
+
+
+
+
+by TOm (oneplusoneequaltofive)
    
    
    
