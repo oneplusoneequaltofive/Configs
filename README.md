@@ -13,6 +13,7 @@ intall vim in arch
    
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+    
    git clone https://github.com/oneplusoneequaltofive/Configs.git 
 cp Configs/vimrc ~/.vimrc
 vim ~/.vimrc
